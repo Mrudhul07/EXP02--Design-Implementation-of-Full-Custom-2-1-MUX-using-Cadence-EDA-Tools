@@ -89,14 +89,8 @@ Analog simulation by SPECTRE.
  ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
 
 For Transient Analysis Settings and Output
- ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
-
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
-
-
-
- 
-
+ ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501
+(https://github.com/user-attachments/assets/0b699b2f-b07d-40a2-9969-d6d7b61a4e5f)
 Results:
 1.	The experiment successfully demonstrated the design and implementation of a 2:1 MUX using Cadence EDA tools. 
 2.	The successful verification through schematic, layout, and simulation underscores the effectiveness of using Cadence EDA tools for digital circuit design.
